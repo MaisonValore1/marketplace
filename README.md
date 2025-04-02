@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+=======
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+>>>>>>> 9c0f7085b535d6d8cf8e47e100a48e2ef7ad3bb2
 
 ## Getting Started
 
@@ -16,7 +20,11 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+<<<<<<< HEAD
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+=======
+You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+>>>>>>> 9c0f7085b535d6d8cf8e47e100a48e2ef7ad3bb2
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
